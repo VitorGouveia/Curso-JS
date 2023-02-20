@@ -1,3 +1,0 @@
-mutation Logout($full: Boolean) {
-	logout(full: $full)
-}
