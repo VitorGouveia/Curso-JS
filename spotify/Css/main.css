@@ -1,0 +1,126 @@
+nav {
+    margin-top: 0;
+    padding: 0;
+    float: left;
+    width: 370px;
+    height: auto;
+    background: linear-gradient(to bottom, #1919199d, #191414);
+}
+
+body {
+    background: linear-gradient(to bottom, #535353,	#212121)
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+h1{
+    color: white;
+    font-family: 'Gotham';
+    text-align: center;
+    padding-top: 8%;
+    width: 95%;
+    font-weight: bold;
+}
+
+#barra_pesquisar {
+    border: none;
+    background: transparent;
+    outline: none;
+    color: white;
+    font-size: 12pt;
+    font-family: 'Gotham';
+    font-weight: bold;
+}
+
+.img_float {
+    padding: 25px 0 0 25px;
+}
+
+.hr_01 {
+    background-color: rgba(255, 255, 255, 0.404);
+    width: 300px;
+    margin-left: 25px;
+    float: left;
+}
+
+.search {
+    margin-left: 20px;
+    margin-bottom: 5px;
+    padding: 10px 5px;
+    text-decoration: none;
+}
+
+.float {   
+    float: left;
+    margin-right: 80x;
+    font: white;
+}
+
+.fa-search {
+    color: white;
+    font-weight: lighter;
+}
+
+.nav_02 {
+    margin-left: 25px;
+    color: white;
+}
+
+p {
+    font-weight: bold;
+    font-family: 'Gotham';
+    font-size: 12pt;
+}
+
+.active {
+    color: 	#1db954;
+}
+
+.nav_03 {
+    text-transform: uppercase;
+    margin-left: 25px;
+    color: rgba(255, 255, 255, 0.274);
+}
+
+.music {
+    margin: 25px;
+    color: white;
+    margin-bottom: 344px;
+}
+
+.pad {
+    margin-bottom: 6px;
+}
+
+.bottom {
+    margin-left: 25px;
+    color: white;
+}
+
+.left {
+    float: left;
+}
+
+.bottom_icon {
+    margin-top: 18px;
+    margin-right: 45px;
+    float: right;
+}
+
+.navbar a {
+    float: left;
+    margin-left: 8%;
+    color: white;
+    text-align: center;
+    padding: 25px 0px 5px 0px;
+    text-decoration: none;
+    font-size: 12pt;
+    font-family: 'Gotham';
+}
+
+.navbar a.active {
+    border-bottom: 4px solid #1db954;
+}
